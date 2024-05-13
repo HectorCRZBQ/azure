@@ -144,8 +144,9 @@ Como se han realizado modificaciones en la configuración de nginx, se actualiza
 -	Dirección del sitio: http://midominio2
 -	Dirección del sitio (con www): http://www.midominio2
 
-![image](https://github.com/HectorCRZBQ/azure/assets/148070442/8fe44227-d6b6-4718-bb79-0530654e43cf)
 
 **Siempre cuando terminemos de usarla, debemos apagar la máquina virtual.**
 
 ![image](https://github.com/HectorCRZBQ/azure/assets/148070442/94495bb6-239c-4efb-b5bb-3f0f2dbfcb7e)
+
+Hector de la Cruz Baquero - [Linkdedin](https://www.linkedin.com/in/h%C3%A9ctor-de-la-cruz-baquero-ba193429b/) - [Webpage](https://hectorcrzbq.github.io/)
