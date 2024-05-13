@@ -1,0 +1,26 @@
+server {
+    listen 80;
+    listen [::]:80;
+    server_name midominio1 www.midominio1;
+
+    root /var/www/dominio1/html;
+    index index.html;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+}
+
+server {
+    listen 80;
+    listen [::]:80;
+    server_name midominio2 www.midominio2;
+
+    root /var/www/dominio2/html;
+    index index2.html;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+}
+
