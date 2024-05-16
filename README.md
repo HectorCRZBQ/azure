@@ -66,7 +66,7 @@ Creamos un **index.html** dentro de este sitio con **sudo nano index.html** para
 
 ![image](https://github.com/HectorCRZBQ/azure/assets/148070442/96b3a971-e26e-44b3-b267-344f629ac800)
  
-Accedemos a **etc/nginx** y luego se accede a** sites-available**, para comprobar que se ha puesto previamente a cargarse el html de **index.html** al **index.nginx-debian.html**
+Accedemos a **etc/nginx** y luego se accede a **sites-available**, para comprobar que se ha puesto previamente a cargarse el html de **index.html** al **index.nginx-debian.html**
   
 ![image](https://github.com/HectorCRZBQ/azure/assets/148070442/96585a3b-f54f-4714-9edf-0465d3781b19)
 
